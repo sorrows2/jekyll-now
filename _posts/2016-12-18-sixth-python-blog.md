@@ -1,5 +1,5 @@
 ---
-title: sixth python blog
+title: Sixth python blog
 layout: post
 author: rohan.haynes
 permalink: /sixth-python-blog/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title: </td>
-    <td>    sixth python blog</td>
+    <td>    Sixth python blog</td>
     <td>    Date: </td>
     <td>  usually</td>
   </tr>
